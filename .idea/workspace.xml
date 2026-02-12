@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21201420-2710-424b-b958-457f1fce6c57" name="Changes" comment="Comecei o versionamento no pycharm.">
+      <change beforePath="$PROJECT_DIR$/desafios/desafio016/desafio016.ME.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio016/desafio016.ME.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lucas-figueredo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lucas-figueredo/PythonPOO.git&quot;,
+    &quot;accountId&quot;: &quot;73d0bb4c-f707-4f8a-bbc8-7b812083798c&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/desafios/desafio016/desafio016.ME.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rich/rich001.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="398qxGt9jSMzU1Y5QRAfc0ChhzZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Olá-Mundo.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.desafio016.ME.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio017.ME.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio018.ME.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio019.ME.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testes.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Blueman/PycharmProjects/PythonPOO/desafios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Blueman\PycharmProjects\PythonPOO\desafios" />
+      <recent name="C:\Users\Blueman\PycharmProjects\PythonPOO\ex003" />
+      <recent name="C:\Users\Blueman\PycharmProjects\POOpython\ex002" />
+      <recent name="C:\Users\Blueman\PycharmProjects\POOpython" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Blueman\PycharmProjects\PythonPOO\exercicios" />
+      <recent name="C:\Users\Blueman\PycharmProjects\PythonPOO\desafios" />
+      <recent name="C:\Users\Blueman\PycharmProjects\PythonPOO\desafios\desafio016" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <option name="PORT" value="0" />
+      <option name="HOST" value="localhost" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonPOO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PythonPOO)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21201420-2710-424b-b958-457f1fce6c57" name="Changes" comment="" />
+      <created>1770088290062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770088290062</updated>
+      <workItem from="1770088291122" duration="1605000" />
+      <workItem from="1770154370520" duration="7262000" />
+      <workItem from="1770162564948" duration="55000" />
+      <workItem from="1770162690870" duration="36000" />
+      <workItem from="1770162757112" duration="18000" />
+      <workItem from="1770162807617" duration="50000" />
+      <workItem from="1770162873610" duration="13000" />
+      <workItem from="1770162887416" duration="114000" />
+      <workItem from="1770163004962" duration="75000" />
+      <workItem from="1770163103320" duration="500000" />
+      <workItem from="1770223645513" duration="5230000" />
+      <workItem from="1770235644431" duration="1324000" />
+      <workItem from="1770237388077" duration="18984000" />
+      <workItem from="1770313641125" duration="4891000" />
+      <workItem from="1770420062471" duration="5880000" />
+      <workItem from="1770567648566" duration="596000" />
+      <workItem from="1770812020473" duration="3440000" />
+      <workItem from="1770815549811" duration="136000" />
+      <workItem from="1770815748856" duration="4449000" />
+      <workItem from="1770832688263" duration="332000" />
+      <workItem from="1770907423722" duration="170000" />
+    </task>
+    <task id="LOCAL-00001" summary="Comecei o versionamento no pycharm.">
+      <option name="closed" value="true" />
+      <created>1770813804285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770813804285</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Comecei o versionamento no pycharm.">
+      <option name="closed" value="true" />
+      <created>1770814751557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770814751557</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Comecei o versionamento no pycharm.">
+      <option name="closed" value="true" />
+      <created>1770831297044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770831297044</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Comecei o versionamento no pycharm.">
+      <option name="closed" value="true" />
+      <created>1770831531403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770831531403</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Comecei o versionamento no pycharm.">
+      <option name="closed" value="true" />
+      <created>1770832165154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770832165154</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Comecei o versionamento no pycharm.">
+      <option name="closed" value="true" />
+      <created>1770832265467</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770832265467</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Comecei o versionamento no pycharm.">
+      <option name="closed" value="true" />
+      <created>1770832781713</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770832781713</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/lucas-figueredo/PythonPOO" />
+    <MESSAGE value="Comecei o versionamento no pycharm." />
+    <option name="LAST_COMMIT_MESSAGE" value="Comecei o versionamento no pycharm." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonPOO$desafio016_ME.coverage" NAME="desafio016.ME Coverage Results" MODIFIED="1770907554506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio016" />
+    <SUITE FILE_PATH="coverage/POOpython$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1770089743398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex001" />
+    <SUITE FILE_PATH="coverage/PythonPOO$rich001.coverage" NAME="rich001 Coverage Results" MODIFIED="1770239141732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rich" />
+    <SUITE FILE_PATH="coverage/PythonPOO$desafio018_ME.coverage" NAME="desafio018.ME Coverage Results" MODIFIED="1770253333637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio018" />
+    <SUITE FILE_PATH="coverage/PythonPOO$ex000.coverage" NAME="ex000 Coverage Results" MODIFIED="1770163590761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex000" />
+    <SUITE FILE_PATH="coverage/PythonPOO$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1770247841782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex002" />
+    <SUITE FILE_PATH="coverage/PythonPOO$rich003.coverage" NAME="rich003 Coverage Results" MODIFIED="1770240293510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rich" />
+    <SUITE FILE_PATH="coverage/PythonPOO$desafio017_ME.coverage" NAME="desafio017.ME Coverage Results" MODIFIED="1770251050329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio017" />
+    <SUITE FILE_PATH="coverage/POOpython$ex000.coverage" NAME="ex000 Coverage Results" MODIFIED="1770089852006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex000" />
+    <SUITE FILE_PATH="coverage/POOpython$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1770162033111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex003" />
+    <SUITE FILE_PATH="coverage/PythonPOO$rich002.coverage" NAME="rich002 Coverage Results" MODIFIED="1770245059412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rich" />
+    <SUITE FILE_PATH="coverage/PythonPOO$rich005.coverage" NAME="rich005 Coverage Results" MODIFIED="1770246696597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rich" />
+    <SUITE FILE_PATH="coverage/PythonPOO$desafio020.coverage" NAME="desafio020 Coverage Results" MODIFIED="1770316084840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio020" />
+    <SUITE FILE_PATH="coverage/PythonPOO$desafio019_ME.coverage" NAME="desafio019.ME Coverage Results" MODIFIED="1770263165515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio019" />
+    <SUITE FILE_PATH="coverage/PythonPOO$testes.coverage" NAME="testes Coverage Results" MODIFIED="1770432837470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/POOpython$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1770159022712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex002" />
+    <SUITE FILE_PATH="coverage/PythonPOO$rich004.coverage" NAME="rich004 Coverage Results" MODIFIED="1770907547461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rich" />
+    <SUITE FILE_PATH="coverage/PythonPOO$ex003v2.coverage" NAME="ex003v2 Coverage Results" MODIFIED="1770248126811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex003" />
+  </component>
+</project>

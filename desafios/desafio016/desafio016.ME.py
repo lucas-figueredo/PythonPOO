@@ -1,4 +1,4 @@
-from rich import print
+from rich import print,inspect
 
 
 class Funcionario:
@@ -12,7 +12,9 @@ class Funcionario:
 
 
 c1 = Funcionario("Maria", "Administração", "Diretora")
-print(c1.apresencao())
+#print(c1.apresencao())
+inspect(c1,methods=True)
 
 c2 = Funcionario("Pedro", "TI", "Programador")
-print(c2.apresencao())
+#print(c2.apresencao())
+inspect(c2)
