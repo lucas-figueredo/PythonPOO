@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21201420-2710-424b-b958-457f1fce6c57" name="Changes" comment="Comecei o versionamento no pycharm.">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio016/desafio016G.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio016/desafio016.ME.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio016/desafio016.ME.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +189,7 @@
       <workItem from="1770815549811" duration="136000" />
       <workItem from="1770815748856" duration="4449000" />
       <workItem from="1770832688263" duration="332000" />
-      <workItem from="1770907423722" duration="5852000" />
+      <workItem from="1770907423722" duration="6420000" />
     </task>
     <task id="LOCAL-00001" summary="Comecei o versionamento no pycharm.">
       <option name="closed" value="true" />
@@ -249,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770832781713</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Comecei o versionamento no pycharm.">
+      <option name="closed" value="true" />
+      <created>1770920979735</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770920979735</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
